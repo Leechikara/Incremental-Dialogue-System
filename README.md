@@ -19,8 +19,7 @@ work, please cite the following paper. The bibtex are listed below:
      sklearn
 
 ## Datasets
-Our data is available at https://drive.google.com/file/d/1KYZNxzcU5kximq1-_IDC_4NCFabz40jN/view?usp=sharing.
-Download and unzip at ./data.
+Our data is available at https://drive.google.com/file/d/1KYZNxzcU5kximq1-_IDC_4NCFabz40jN/view?usp=sharing. Download and unzip at ./data.
 - ./data/preprocessed contains the preprocessed five sub-dataset.
 - ./data/original contains the original dialogue episodes before entity replacing.
 - ./data/script annotates the dialogue scenarios in each episode.
